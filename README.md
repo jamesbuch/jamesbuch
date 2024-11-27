@@ -5,6 +5,7 @@
 - 📫 How to reach me: my username + 1337 at gmail.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm an old fart. But still feel like I'm in my 20's when I code. Started with C++ as a teenager in the mid 1990s. Turbo C++ on DOS, good times!
+- ⚡ I've written working compilers that generate LLVM IR code, which I can then pass to clang to get a working program. I've also written compilers that target the JVM, using the Apache BCEL to emit the opcodes.
 
 <!---
 jamesbuch/jamesbuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
