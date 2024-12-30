@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @jamesbuch
+- 💻 I work as a full stack developer and problem solver of difficult tasks
+- 🇦🇺 I live in Straya, more specifically Tamworth
 - 👀 I’m interested in compilers and interpreters, arm64 machine code, apps built with Node/.NET/Laravel, and many other things.
 - 🌱 I’m currently learning a lot more about Laravel, which I really enjoy using.
 - 💞️ I’m looking to collaborate on interesting projects.
