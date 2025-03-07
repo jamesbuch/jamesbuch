@@ -3,7 +3,7 @@
 - 🌐 I build a lot of Web applications.
 - 🇦🇺 I live in Straya, more specifically Tamworth.
 - 🌱 I’m currently learning a lot more about Laravel, Intertia and Svelte 5, all of which I really enjoy using.
-- - 👀 I’m interested in compilers and interpreters, arm64 machine code, apps built with Node, C# .NET Core, Laravel, Vue, Svelte, and many other things.
+- 👀 I’m interested in compilers and interpreters, arm64 machine code, apps built with Node, C# .NET Core, Laravel, Vue, Svelte, and many other things.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: my username + 1337 at gmail.
 - ⚡ Fun fact: Started with C++ as a teenager in the mid 1990s. Turbo C++ on DOS, good times!
